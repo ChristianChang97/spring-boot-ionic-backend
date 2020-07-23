@@ -15,7 +15,6 @@ import com.christianchang.cursomc.domain.enums.EstadoPagamento;
 import com.christianchang.cursomc.repositories.ItemPedidoRepository;
 import com.christianchang.cursomc.repositories.PagamentoRepository;
 import com.christianchang.cursomc.repositories.PedidoRepository;
-import com.christianchang.cursomc.repositories.ProdutoRepository;
 import com.christianchang.cursomc.services.exceptions.ObjectNotFoundException;
 
 
